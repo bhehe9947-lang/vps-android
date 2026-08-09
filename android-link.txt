@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tears-hearts-currency-hosts.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://cross-slide-national-participants.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-09 15:45:13 UTC
+Created   : 2026-08-09 20:47:20 UTC
 =======================================================
