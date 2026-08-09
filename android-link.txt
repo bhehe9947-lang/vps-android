@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://urls-remaining-islands-perfectly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://buses-period-hayes-consisting.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-09 02:05:28 UTC
+Created   : 2026-08-09 06:00:05 UTC
 =======================================================
