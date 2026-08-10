@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fabulous-geek-twelve-curves.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://super-guests-five-lance.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-10 02:09:25 UTC
+Created   : 2026-08-10 06:23:10 UTC
 =======================================================
