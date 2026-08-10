@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://demanding-columbus-bacterial-makes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://temperature-begins-proposition-llp.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-10 16:13:41 UTC
+Created   : 2026-08-10 20:56:23 UTC
 =======================================================
