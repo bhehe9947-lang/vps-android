@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thomson-relocation-trips-boots.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://forgotten-strategies-chose-overseas.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-12 16:12:40 UTC
+Created   : 2026-08-12 21:01:37 UTC
 =======================================================
