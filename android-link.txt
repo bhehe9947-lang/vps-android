@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kitty-fossil-living-particularly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://path-cyber-commission-particles.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-16 05:42:06 UTC
+Created   : 2026-08-16 10:37:17 UTC
 =======================================================
