@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://steven-stuart-negotiation-energy.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://dish-writer-licensing-developed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-25 15:56:25 UTC
+Created   : 2026-08-25 20:43:33 UTC
 =======================================================
