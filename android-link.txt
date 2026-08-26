@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://turtle-marsh-casa-chancellor.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://mission-lamb-skating-simulation.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-26 01:36:35 UTC
+Created   : 2026-08-26 05:48:01 UTC
 =======================================================
