@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fare-reasons-everybody-bowling.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://commonwealth-amend-eventually-emissions.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-31 20:54:10 UTC
+Created   : 2026-09-01 04:19:09 UTC
 =======================================================
