@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://amended-political-hospital-veterans.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://natural-regular-stem-stylus.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 14:25:43 UTC
+Created   : 2026-09-03 18:36:55 UTC
 =======================================================
