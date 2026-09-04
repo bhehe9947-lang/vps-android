@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://biographies-denver-sig-dow.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://spanking-progressive-protected-creation.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-04 14:16:38 UTC
+Created   : 2026-09-04 18:22:57 UTC
 =======================================================
