@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fate-burns-checkout-mathematical.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://suggestions-cleveland-dietary-sagem.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-05 22:09:34 UTC
+Created   : 2026-09-06 03:43:13 UTC
 =======================================================
