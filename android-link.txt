@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fixed-carmen-download-generally.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://opportunity-glen-owned-council.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-06 09:23:38 UTC
+Created   : 2026-09-06 13:39:03 UTC
 =======================================================
