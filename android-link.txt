@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://association-violation-insertion-stanley.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://viewed-look-nicole-lexington.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-07 03:43:02 UTC
+Created   : 2026-09-07 10:11:36 UTC
 =======================================================
