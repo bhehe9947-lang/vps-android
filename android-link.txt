@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cir-limousines-utils-begin.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://past-even-supplemental-enhance.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-09 03:53:11 UTC
+Created   : 2026-09-09 09:38:39 UTC
 =======================================================
