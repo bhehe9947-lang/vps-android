@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://municipal-ordinance-conversation-conferencing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://sprint-zum-nor-shaw.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-10 18:25:05 UTC
+Created   : 2026-09-10 22:31:32 UTC
 =======================================================
