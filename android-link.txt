@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://portland-scanned-contributed-than.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://actor-mighty-hull-zoloft.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-12 22:10:50 UTC
+Created   : 2026-09-13 04:00:57 UTC
 =======================================================
